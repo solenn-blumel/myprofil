@@ -1,0 +1,46 @@
+body{
+	text-align: center;
+	background-color: lightgrey;
+}
+
+div{
+	box-shadow: 10px 5px 5px grey;
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+	width: 50%;
+	margin: 0 auto;
+	background-color: white;
+}
+
+h1{
+	color: darkred;
+	font-size: 40px;
+	font-family: Arial;
+	font-weight: bold;
+}
+h2{
+	color: black;
+	font-family: Arial;
+	font-size: 30px;
+}
+
+#facebook{
+	width: 120px;
+	height: 70px;
+}
+#instagram{
+	width: 50px;
+	height: 50px;
+}
+
+button{
+	background-color: black;
+}
+#wagon{
+	color: white;
+}
+ p{
+ 	font-family: Arial;
+ 	font-size: 20px;
+ }
